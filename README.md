@@ -1,1 +1,5 @@
-# pjneethling.github.io
+# PJ - Personal portfolio
+
+## Contact
+
+If you want to contact me you can reach me at neethlingpeterjohn@gmail.com.
